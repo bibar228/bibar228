@@ -16,7 +16,7 @@
 
 - :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bibak228)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-maksim-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bibak228)
 
 ---
 
