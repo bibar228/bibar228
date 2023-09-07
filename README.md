@@ -27,6 +27,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/bibar228/bibar228/blob/main/assets/icons/celery_512.svg" title="Celery" alt="Celery" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg?ysclid=lm8utpzo5u468923158" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+
+  
+
 
 
   
